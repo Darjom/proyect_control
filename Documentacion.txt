@@ -1,0 +1,3 @@
+La version de software presentada es una que no cuenta con Base de datos
+En la linea 28  y  29 de el archivo deminio.py se modifica la hora y la frecuencia coon la que se repetira el pedido de captcha 
+deacuerdo a la diferencia entre las horas
